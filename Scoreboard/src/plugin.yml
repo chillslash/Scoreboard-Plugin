@@ -1,0 +1,5 @@
+name: Scoreboard
+author: DankSpyro
+main: Start.Scoreboard
+version: Beta 1
+depend: [Multiverse-Portals]

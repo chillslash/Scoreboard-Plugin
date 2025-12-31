@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Scoreboard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scoreboard_jar</output-path>
+    <root id="archive" name="Scoreboard.jar">
+      <element id="module-output" name="Scoreboard" />
+      <element id="extracted-dir" path="D:/Desktop/survival/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
