@@ -1,6 +1,6 @@
 # Scoreboard Plugin
 
-A Minecraft Bukkit/Spigot scoreboard plugin adapted from an online source for personal server use. This plugin provides kill tracking and parkour completion features for a custom Minecraft server.
+A Minecraft Bukkit/Spigot scoreboard plugin adapted from an online source for my personal server. This plugin provides kill tracking and parkour completion features for a custom Minecraft server.
 
 ## Features
 
